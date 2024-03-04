@@ -1,0 +1,23 @@
+h1 {
+    text-align:center;
+    font-family: Helvetica, sans-serif;
+    font-size: 48px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+h3 {
+    text-align:center;
+    font-family: Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+p,
+ul,
+ol {
+    text-align:center;
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+}

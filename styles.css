@@ -1,0 +1,24 @@
+h1 {
+    color: black;
+    font-family: Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    font-size: 32px;
+    font-family: Helvetica, sans-serif;
+}
+
+#pizza {
+    background-color: red;
+}
+
+#guacamole {
+    background-color: greenyellow;
+}
+
+#whipped-cream {
+    background-color: rgb(255, 255, 216);
+}
