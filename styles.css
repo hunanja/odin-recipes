@@ -1,24 +1,61 @@
+body {
+    background-color: bisque;
+    box-sizing: border-box;
+    width: 500px;
+    margin:16px auto
+}
+
 h1 {
     color: black;
     font-family: Helvetica, sans-serif;
-    font-size: 50px;
     text-align: center;
+    font-size: 50px;
+    padding: 20px;
+    border: 4px solid black;
+    margin: auto;
+    margin-bottom: 25px;
+    background-color: whitesmoke;
 }
 
-ul {
+div {
     text-align: center;
     font-size: 32px;
     font-family: Helvetica, sans-serif;
+    width: 500px;
+}
+
+#pizza:hover {
+    background-color: pink;
+}
+
+#guacamole:hover {
+    background-color: lightgreen;
+}
+
+#whipped-cream:hover {
+    background-color: antiquewhite;
 }
 
 #pizza {
     background-color: red;
+    padding: 20px;
+    margin: auto;
+    border: 2px solid black;
+    display: block;
 }
 
 #guacamole {
     background-color: greenyellow;
+    padding: 20px;
+    margin: 16px auto;
+    border: 2px solid black;
+    display: block;
 }
 
 #whipped-cream {
     background-color: rgb(255, 255, 216);
+    padding: 20px;
+    margin: auto;
+    border: 2px solid black;
+    display: block;
 }
